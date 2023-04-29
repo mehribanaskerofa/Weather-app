@@ -1,5 +1,5 @@
 # Weather-app
-#1API
+#API's
 1)https://openweathermap.org/
 2)https://developers.google.com/maps/documentation/javascript?hl=ru
 
