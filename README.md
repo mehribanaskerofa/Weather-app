@@ -3,7 +3,7 @@
 1. https://openweathermap.org/
 2. https://developers.google.com/maps/documentation/javascript?hl=ru
 
-# learned source
+# Learned Resources
 
 1. https://youtu.be/kugdKyHykAA
 2. https://youtu.be/1815Bv5r4vY
